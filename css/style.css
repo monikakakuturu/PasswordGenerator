@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(178, 179, 180);
+}
+h1 {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.Generate-Password {
+  background-color: white;
+  padding: 10px;
+  margin-left: 120px;
+  margin-right: 100px;
+}
+
+.form-control {
+  text-align: center;
+  height: 200px;
+  border-style: dashed;
+  border-width: 3px;
+}
+
+button {
+  position: relative;
+  margin-left: 43%;
+  margin-top: 1%;
+  background-color: red;
+  color: white;
+}
